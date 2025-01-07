@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm excited to share my journey in technology and 
 
 ## 🌟 About Me
 - **👀 Interests:** I'm passionate about learning new skills and sharing innovative concepts. Whether it's coding, project management, or app development, I'm always eager to dive into new challenges!
+- - **Automation**: Streamlining processes and improving efficiency.
+  - **Web Development**: Creating dynamic and responsive web applications.
+  - **Machine Learning**: Exploring data-driven solutions and intelligent systems.
+  
 - **🌱 Current Focus:** As a student, I'm constantly inspired by the world of technology and how it shapes our future. I'm currently exploring various programming languages and development frameworks.
 - **💞 Collaboration:** I'm looking to collaborate on:
   - Project management
