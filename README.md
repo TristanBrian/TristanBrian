@@ -101,4 +101,6 @@ Collaboration: Let’s team up on open-source projects or innovative solutions.
 ## 🎉 Let’s Build Something Amazing!
 I believe in the power of collaboration and continuous learning. Let’s connect, share ideas, and create something impactful together!
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/TristanBrian/github-readme-stats)
+
 Thank you for visiting my profile! Feel free to explore my repositories and reach out. Happy coding! 🚀
