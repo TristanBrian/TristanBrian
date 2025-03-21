@@ -32,6 +32,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 -** Open-source contributions.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/TristanBrian/github-readme-stats)
+
 ## 🚀 Projects
 ## Linux-Based Smart Home Automation
 Created a smart home automation system using Linux.
