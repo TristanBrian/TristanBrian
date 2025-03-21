@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 ** 🤖 Machine Learning:* Exploring data-driven solutions and intelligent systems.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 🌱 Current Focus:
 
 ** Learning advanced cybersecurity techniques and networking protocols.
