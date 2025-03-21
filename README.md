@@ -2,80 +2,80 @@
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecurity, networking, automation, and software development. Here's a bit about me and what I'm working on:
 
 ## 🌟 About Me
--** 👀 Interests: **
+** 👀 Interests: **
 
--** 🛡️ Cybersecurity:** Threat analysis, penetration testing, and secure system design.
+** 🛡️ Cybersecurity:** Threat analysis, penetration testing, and secure system design.
 
--** 🌐 Networking:** Network design, optimization, and troubleshooting.
+** 🌐 Networking:** Network design, optimization, and troubleshooting.
 
--** 🤖 Automation: ** Scripting, IoT integration, and Linux-based automation.
+** 🤖 Automation: ** Scripting, IoT integration, and Linux-based automation.
 
--** 💻 Web Development:** Building dynamic and responsive web applications.
+** 💻 Web Development:** Building dynamic and responsive web applications.
 
--** 🤖 Machine Learning:** Exploring data-driven solutions and intelligent systems.
+** 🤖 Machine Learning:** Exploring data-driven solutions and intelligent systems.
 
 ## 🌱 Current Focus:
 
--** Learning advanced cybersecurity techniques and networking protocols.
+** Learning advanced cybersecurity techniques and networking protocols.
 
--** Exploring Python, JavaScript, and frameworks like Vue.js.
+** Exploring Python, JavaScript, and frameworks like Vue.js.
 
--** Contributing to open-source projects and building personal projects.
+** Contributing to open-source projects and building personal projects.
 
 ## 💞 Collaboration Interests:
 
--** Cybersecurity and networking projects.
+** Cybersecurity and networking projects.
 
--** Automation and IoT systems.
+** Automation and IoT systems.
 
 -** Open-source contributions.
 
 ## 🚀 Projects
-** Linux-Based Smart Home Automation
+## Linux-Based Smart Home Automation
 Created a smart home automation system using Linux.
 
 Integrated IoT devices for seamless control and monitoring.
 
 Skills showcased: Automation, scripting (Bash, Python), and system integration.
 
-** Cybersecurity & Networking
+## Cybersecurity & Networking
 Actively learning about network security, penetration testing, and secure system design.
 
 Exploring tools like Wireshark, Nmap, and Metasploit.
 
-** Open Source Contributions
+## Open Source Contributions
 Looking for projects to contribute to, especially in cybersecurity and networking.
 
 Open to suggestions and collaborations!
 
 ## 🛠️ Skills
-** Cybersecurity
+## Cybersecurity
 Threat Analysis & Mitigation: Identifying and neutralizing potential threats.
 
 Penetration Testing: Simulating attacks to uncover vulnerabilities.
 
 Secure System Design: Building robust and secure systems.
 
-** Networking
+##  Networking
 Network Design & Optimization: Creating efficient and scalable networks.
 
 Troubleshooting & Performance Tuning: Resolving issues and improving performance.
 
 Protocols & Tools: TCP/IP, DNS, Wireshark, Nmap.
 
-** Automation
+## Automation
 Scripting: Bash, Python.
 
 IoT Integration: Connecting and managing IoT devices.
 
 Linux-Based Automation: Streamlining processes on Linux systems.
 
-** Web Development
+## Web Development
 Frontend: HTML, CSS, JavaScript, Vue.js.
 
 Backend: Node.js, Python (Flask/Django).
 
-** Machine Learning
+## Machine Learning
 Data Analysis & Modeling: Extracting insights from data.
 
 Frameworks: TensorFlow, Scikit-learn.
