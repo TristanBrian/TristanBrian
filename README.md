@@ -1,41 +1,100 @@
-# 👋 Hi there! I'm @TristanBrian
+👋 Hi, I'm Tristan Brian
+Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecurity, networking, automation, and software development. Here's a bit about me and what I'm working on:
 
-Welcome to my GitHub profile! I'm excited to share my journey in technology and collaborate with like-minded individuals. Here's a little more about me:
+🌟 About Me
+Interests:
 
-## 🌟 About Me
-- **👀 Interests:** I'm passionate about learning new skills and sharing innovative concepts. Whether it's coding, project management, or app development, I'm always eager to dive into new challenges!
-- - **Automation**: Streamlining processes and improving efficiency.
-  - **Web Development**: Creating dynamic and responsive web applications.
-  - **Machine Learning**: Exploring data-driven solutions and intelligent systems.
-  
-- **🌱 Current Focus:** As a student, I'm constantly inspired by the world of technology and how it shapes our future. I'm currently exploring various programming languages and development frameworks.
-- **💞 Collaboration:** I'm looking to collaborate on:
-  - Project management
-  - Coding tasks
-  - App development
+🛡️ Cybersecurity: Threat analysis, penetration testing, and secure system design.
 
-## 📫 Let's Connect!
-Feel free to reach out to me via email: [lessusbrian7@gmail.com]. I love connecting with new people and discussing ideas!
+🌐 Networking: Network design, optimization, and troubleshooting.
 
-## 🚀 What I'm Working On
-- [ ] **Learning New Technologies:** Currently exploring [Vue.js and Machine learning].
-- [ ] **Open Source Contributions:** I’m looking for projects to contribute to. If you have any suggestions, let me know!
-- [ ] **Personal Projects:** I'm working on a personal project that involves an automation system for a blockchain enterprise.
+🤖 Automation: Scripting, IoT integration, and Linux-based automation.
 
-## 🤝 How You Can Help
-- **Mentorship:** If you have experience in project management or app development, I would love to learn from you!
-- **Project Ideas:** If you have any interesting project ideas or challenges, feel free to share them with me!
+💻 Web Development: Building dynamic and responsive web applications.
 
-## 🌐 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/tristan-bryan-0986372b9/)
+🤖 Machine Learning: Exploring data-driven solutions and intelligent systems.
 
-## 🎉 Let's Enjoy the Process!
-I believe that learning and collaboration should be enjoyable. Let's connect, share ideas, and make something amazing together!
+Current Focus:
 
----
+Learning advanced cybersecurity techniques and networking protocols.
 
-Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
-<!---
-TristanBrian/TristanBrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Exploring Python, JavaScript, and frameworks like Vue.js.
+
+Contributing to open-source projects and building personal projects.
+
+Collaboration Interests:
+
+Cybersecurity and networking projects.
+
+Automation and IoT systems.
+
+Open-source contributions.
+
+🚀 Projects
+Linux-Based Smart Home Automation
+Created a smart home automation system using Linux.
+
+Integrated IoT devices for seamless control and monitoring.
+
+Skills showcased: Automation, scripting (Bash, Python), and system integration.
+
+Cybersecurity & Networking
+Actively learning about network security, penetration testing, and secure system design.
+
+Exploring tools like Wireshark, Nmap, and Metasploit.
+
+Open Source Contributions
+Looking for projects to contribute to, especially in cybersecurity and networking.
+
+Open to suggestions and collaborations!
+
+🛠️ Skills
+Cybersecurity
+Threat analysis and mitigation.
+
+Penetration testing and vulnerability assessment.
+
+Secure system design and implementation.
+
+Networking
+Network design and optimization.
+
+Troubleshooting and performance tuning.
+
+Protocols and tools (TCP/IP, DNS, Wireshark).
+
+Automation
+Scripting with Bash and Python.
+
+IoT device integration.
+
+Linux-based system automation.
+
+Web Development
+Frontend: HTML, CSS, JavaScript, Vue.js.
+
+Backend: Node.js, Python (Flask/Django).
+
+Machine Learning
+Data analysis and modeling.
+
+TensorFlow and Scikit-learn.
+
+📫 Let's Connect!
+Email: [lessusbrian7@gmail.com]
+
+LinkedIn: Tristan Brian
+
+I’m always open to discussing new ideas, collaborations, or mentorship opportunities. Feel free to reach out!
+
+🤝 How You Can Help
+Mentorship: If you have experience in cybersecurity, networking, or automation, I’d love to learn from you!
+
+Project Ideas: Share your ideas or challenges—I’m always looking for new projects to work on.
+
+Collaboration: Let’s team up on open-source projects or innovative solutions.
+
+🎉 Let’s Build Something Amazing!
+I believe in the power of collaboration and continuous learning. Let’s connect, share ideas, and create something impactful together!
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out. Happy coding! 🚀
