@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 ** 🤖 Machine Learning:* Exploring data-driven solutions and intelligent systems.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,anaconda,angular,aws,bootstrapc,cpp,discord,docker,figma,firebase,flask,git,js,laravel,linux,mysql,mongodb,php,py,react,redhat,vercel,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,wasm,anaconda,angular,aws,bootstrap,wordpress,yarn,cpp,discord,docker,figma,firebase,flask,git,js,laravel,linux,mysql,mongodb,php,py,react,redhat,vercel,vite)](https://skillicons.dev)
 
 ## 🌱 Current Focus:
 
