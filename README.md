@@ -1,20 +1,20 @@
 👋 Hi, I'm Tristan Brian
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecurity, networking, automation, and software development. Here's a bit about me and what I'm working on:
 
-🌟 About Me
-Interests:
+## 🌟 About Me
+-** 👀 Interests: **
 
-🛡️ Cybersecurity: Threat analysis, penetration testing, and secure system design.
+-** 🛡️ Cybersecurity:** Threat analysis, penetration testing, and secure system design.
 
-🌐 Networking: Network design, optimization, and troubleshooting.
+-** 🌐 Networking:** Network design, optimization, and troubleshooting.
 
-🤖 Automation: Scripting, IoT integration, and Linux-based automation.
+-** 🤖 Automation: ** Scripting, IoT integration, and Linux-based automation.
 
-💻 Web Development: Building dynamic and responsive web applications.
+-** 💻 Web Development:** Building dynamic and responsive web applications.
 
-🤖 Machine Learning: Exploring data-driven solutions and intelligent systems.
+-** 🤖 Machine Learning:** Exploring data-driven solutions and intelligent systems.
 
-Current Focus:
+🌱 Current Focus:
 
 Learning advanced cybersecurity techniques and networking protocols.
 
@@ -22,7 +22,7 @@ Exploring Python, JavaScript, and frameworks like Vue.js.
 
 Contributing to open-source projects and building personal projects.
 
-Collaboration Interests:
+💞 Collaboration Interests:
 
 Cybersecurity and networking projects.
 
@@ -50,25 +50,25 @@ Open to suggestions and collaborations!
 
 🛠️ Skills
 Cybersecurity
-Threat analysis and mitigation.
+Threat Analysis & Mitigation: Identifying and neutralizing potential threats.
 
-Penetration testing and vulnerability assessment.
+Penetration Testing: Simulating attacks to uncover vulnerabilities.
 
-Secure system design and implementation.
+Secure System Design: Building robust and secure systems.
 
 Networking
-Network design and optimization.
+Network Design & Optimization: Creating efficient and scalable networks.
 
-Troubleshooting and performance tuning.
+Troubleshooting & Performance Tuning: Resolving issues and improving performance.
 
-Protocols and tools (TCP/IP, DNS, Wireshark).
+Protocols & Tools: TCP/IP, DNS, Wireshark, Nmap.
 
 Automation
-Scripting with Bash and Python.
+Scripting: Bash, Python.
 
-IoT device integration.
+IoT Integration: Connecting and managing IoT devices.
 
-Linux-based system automation.
+Linux-Based Automation: Streamlining processes on Linux systems.
 
 Web Development
 Frontend: HTML, CSS, JavaScript, Vue.js.
@@ -76,9 +76,9 @@ Frontend: HTML, CSS, JavaScript, Vue.js.
 Backend: Node.js, Python (Flask/Django).
 
 Machine Learning
-Data analysis and modeling.
+Data Analysis & Modeling: Extracting insights from data.
 
-TensorFlow and Scikit-learn.
+Frameworks: TensorFlow, Scikit-learn.
 
 📫 Let's Connect!
 Email: [lessusbrian7@gmail.com]
