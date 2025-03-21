@@ -2,17 +2,17 @@
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecurity, networking, automation, and software development. Here's a bit about me and what I'm working on:
 
 ## 🌟 About Me
-** 👀 Interests: **
+** 👀 Interests: 
 
-** 🛡️ Cybersecurity:** Threat analysis, penetration testing, and secure system design.
+** 🛡️ Cybersecurity:* Threat analysis, penetration testing, and secure system design.
 
-** 🌐 Networking:** Network design, optimization, and troubleshooting.
+** 🌐 Networking:* Network design, optimization, and troubleshooting.
 
-** 🤖 Automation: ** Scripting, IoT integration, and Linux-based automation.
+** 🤖 Automation:* Scripting, IoT integration, and Linux-based automation.
 
-** 💻 Web Development:** Building dynamic and responsive web applications.
+** 💻 Web Development:* Building dynamic and responsive web applications.
 
-** 🤖 Machine Learning:** Exploring data-driven solutions and intelligent systems.
+** 🤖 Machine Learning:* Exploring data-driven solutions and intelligent systems.
 
 ## 🌱 Current Focus:
 
@@ -83,7 +83,7 @@ Frameworks: TensorFlow, Scikit-learn.
 ## 📫 Let's Connect!
 Email: [lessusbrian7@gmail.com]
 
-LinkedIn: Tristan Brian
+LinkedIn:[ Tristan Brian](https://www.linkedin.com/in/tristan-bryan-0986372b9/)
 
 I’m always open to discussing new ideas, collaborations, or mentorship opportunities. Feel free to reach out!
 
