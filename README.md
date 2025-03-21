@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 ** 🤖 Machine Learning:* Exploring data-driven solutions and intelligent systems.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanBrian&size_weight=0.5&count_weight=0.5)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,nodejs,php,wasm,anaconda,androidstudio,angular,aws,azure,bitbucket,blender,bash,bootstrap,cloudflare,cmake,dart,docker,dotnet,emacs,ember,flutter,github,gmail,gitlab,yarn,kali)](https://skillicons.dev)
 
 ## 🌱 Current Focus:
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 -** Open-source contributions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/TristanBrian/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanBrian&size_weight=0.5&count_weight=0.5)
 
 ## 🚀 Projects
 ## Linux-Based Smart Home Automation
