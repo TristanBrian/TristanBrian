@@ -60,30 +60,6 @@ Penetration Testing: Simulating attacks to uncover vulnerabilities.
 
 Secure System Design: Building robust and secure systems.
 
-##  Networking
-Network Design & Optimization: Creating efficient and scalable networks.
-
-Troubleshooting & Performance Tuning: Resolving issues and improving performance.
-
-Protocols & Tools: TCP/IP, DNS, Wireshark, Nmap.
-
-## Automation
-Scripting: Bash, Python.
-
-IoT Integration: Connecting and managing IoT devices.
-
-Linux-Based Automation: Streamlining processes on Linux systems.
-
-## Web Development
-Frontend: HTML, CSS, JavaScript, Vue.js.
-
-Backend: Node.js, Python (Flask/Django).
-
-## Machine Learning
-Data Analysis & Modeling: Extracting insights from data.
-
-Frameworks: TensorFlow, Scikit-learn.
-
 ## 📫 Let's Connect!
 Email: [lessusbrian7@gmail.com]
 
