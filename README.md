@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 ** Learning advanced cybersecurity techniques and networking protocols.
 
-** Exploring Python, JavaScript, and frameworks like Vue.js.
+** Exploring Python, JavaScript, and frameworks like Vue.js,React,Angular
 
 ** Contributing to open-source projects and building personal projects.
 
