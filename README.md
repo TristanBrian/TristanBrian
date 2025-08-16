@@ -79,3 +79,4 @@ I believe in the power of collaboration and continuous learning. Let’s connect
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out. Happy coding! 🚀
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e3896304-9bf0-4f74-acfb-be7fb8d38268" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
