@@ -65,6 +65,7 @@ Email: [lessusbrian7@gmail.com]
 
 LinkedIn:[ Tristan Brian](https://www.linkedin.com/in/brian-kioko-0986372b9/)
 
+https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url
 I’m always open to discussing new ideas, collaborations, or mentorship opportunities. Feel free to reach out!
 
 ## 🤝 How You Can Help
