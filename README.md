@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecuri
 
 ** 🤖 Machine Learning:* Exploring data-driven solutions and intelligent systems.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,nodejs,php,wasm,anaconda,androidstudio,angular,aws,azure,bitbucket,blender,bash,bootstrap,cloudflare,cmake,dart,docker,dotnet,emacs,ember,flutter,github,gmail,gitlab,yarn,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,nodejs,php,wasm,anaconda,androidstudio,angular,aws,azure,bitbucket,blender,bash,bootstrap,cloudflare,cmake,dart,docker,dotnet,emacs,ember,supabase,flutter,github,gmail,gitlab,yarn,kali)](https://skillicons.dev)
 
 ## 🌱 Current Focus:
 
