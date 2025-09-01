@@ -61,7 +61,7 @@ Penetration Testing: Simulating attacks to uncover vulnerabilities.
 Secure System Design: Building robust and secure systems.
 
 ## 🎖️ Certifications
-[![Credly Badge](https://images.credly.com/size/340x340/images/e3896304-9bf0-4f74-acfb-be7fb8d38268/badge.png)](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
+[![CERTIFIED ETHICAL HACKER](https://images.credly.com/size/340x340/images/e3896304-9bf0-4f74-acfb-be7fb8d38268/badge.png)](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
 
 ## 📫 Let's Connect!
 Email: [lessusbrian7@gmail.com]
