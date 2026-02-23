@@ -1,66 +1,65 @@
-👋 Hi, I'm Tristan Brian
-Welcome to my GitHub profile! I'm a tech enthusiast passionate about cybersecurity, networking, automation, and software development. Here's a bit about me and what I'm working on:
+👋 Hi, I’m Tristan Brian
+Cybersecurity Engineer | AI Automation for Software Systems | Linux & Cloud Enthusiast
 
-## 🌟 About Me
-** 👀 Interests: 
+I design, secure, and automate software systems.
+My core focus is cybersecurity-first engineering combined with AI-powered automation to build resilient, efficient, and scalable solutions.
 
-** 🛡️ Cybersecurity:* Threat analysis, penetration testing, and secure system design.
+🔐 What I Specialize In
+🛡️ Cybersecurity
+Threat analysis & risk assessment
+Penetration testing & vulnerability discovery
+Secure system and network architecture
+Defensive security & hardening (Linux, Cloud, Networks)
 
-** 🌐 Networking:* Network design, optimization, and troubleshooting.
+🤖 AI & Automation for Software
+Python-driven automation & scripting
+AI-assisted workflows for monitoring, security, and ops
+Process automation for backend and infrastructure systems
+Linux-based automation & system orchestration
 
-** 🤖 Automation:* Scripting, IoT integration, and Linux-based automation.
-
-** 💻 Web Development:* Building dynamic and responsive web applications.
-
-** 🤖 Machine Learning:* Exploring data-driven solutions and intelligent systems.
+🌐 Networking & Infrastructure
+Network design, optimization & troubleshooting
+Secure networking protocols & traffic analysis
+Cloud infrastructure (AWS, Azure)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,nodejs,php,wasm,anaconda,androidstudio,angular,aws,azure,bitbucket,blender,vite,bash,bootstrap,cloudflare,cmake,dart,docker,dotnet,emacs,ember,supabase,flutter,github,gmail,gitlab,yarn,kali)](https://skillicons.dev)
 
-## 🌱 Current Focus:
+🧠 Current Focus
+Advancing practical offensive & defensive cybersecurity skills
+Building AI-driven automation tools for software & infrastructure
+Developing secure backend systems with Python & JavaScript
+Contributing to security-focused open-source projects
 
-** Learning advanced cybersecurity techniques and networking protocols.
-
-** Exploring Python, JavaScript, and frameworks like Vue.js,React,Angular
-
-** Contributing to open-source projects and building personal projects.
-
-## 💞 Collaboration Interests:
-
-** Cybersecurity and networking projects.
-
-** Automation and IoT systems.
-
--** Open-source contributions.
+🧰 Tech Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanBrian&size_weight=0.5&count_weight=0.5)
 
-## 🚀 Projects
-## Linux-Based Smart Home Automation
-Created a smart home automation system using Linux.
+Languages:
+Python • JavaScript • Bash • PHP
+Security & Networking:
+Kali Linux • Wireshark • Nmap • Metasploit
+Automation & DevOps:
+Docker • Linux • GitHub Actions • Cloudflare
+Web & Backend:
+Node.js • Supabase • MySQL • REST APIs
+Cloud:
+AWS • Azure
 
-Integrated IoT devices for seamless control and monitoring.
+��
+🚀 Selected Work
 
-Skills showcased: Automation, scripting (Bash, Python), and system integration.
+🔧 Linux-Based Smart Automation System
+Designed and implemented automation workflows on Linux
+Integrated IoT components for real-time control and monitoring
+Focused on security, reliability, and scripting efficiency
+Skills: Bash, Python, Linux Automation, System Integration
 
-## Cybersecurity & Networking
-Actively learning about network security, penetration testing, and secure system design.
+🔐 Cybersecurity & Network Security Labs
+Hands-on practice in penetration testing and network analysis
+Traffic inspection, vulnerability scanning, and attack simulation
+Secure system configuration and defensive hardening
+Tools: Wireshark, Nmap, Metasploit, Kali Linux
 
-Exploring tools like Wireshark, Nmap, and Metasploit.
-
-## Open Source Contributions
-Looking for projects to contribute to, especially in cybersecurity and networking.
-
-Open to suggestions and collaborations!
-
-## 🛠️ Skills
-## Cybersecurity
-Threat Analysis & Mitigation: Identifying and neutralizing potential threats.
-
-Penetration Testing: Simulating attacks to uncover vulnerabilities.
-
-Secure System Design: Building robust and secure systems.
-
-## 🎖️ Certifications
 [![CERTIFIED ETHICAL HACKER](https://images.credly.com/size/340x340/images/e3896304-9bf0-4f74-acfb-be7fb8d38268/badge.png)](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
 
 ## 📫 Let's Connect!
@@ -68,20 +67,10 @@ Email: [lessusbrian7@gmail.com]
 
 LinkedIn:[ Tristan Brian](https://www.linkedin.com/in/brian-kioko-0986372b9/)
 
-I’m always open to discussing new ideas, collaborations, or mentorship opportunities. Feel free to reach out!
+I’m open to collaboration, mentorship, and meaningful technical discussions.
 
-## 🤝 How You Can Help
-Mentorship: If you have experience in cybersecurity, networking, or automation, I’d love to learn from you!
-
-Project Ideas: Share your ideas or challenges—I’m always looking for new projects to work on.
-
-Collaboration: Let’s team up on open-source projects or innovative solutions.
-
-## 🎉 Let’s Build Something Amazing!
-I believe in the power of collaboration and continuous learning. Let’s connect, share ideas, and create something impactful together!
-
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out. Happy coding! 🚀
-
-
-
+.................................................
+Build secure systems first.
+Automate what matters.
+Learn continuously.
+Thanks for stopping by — feel free to explore my repositories
