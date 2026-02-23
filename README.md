@@ -90,19 +90,44 @@ Hands-on practice in penetration testing and network analysis including traffic 
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Badges
 
-[![CERTIFIED ETHICAL HACKER](https://images.credly.com/size/340x340/images/e3896304-9bf0-4f74-acfb-be7fb8d38268/badge.png)](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
+<div align="center">
+  
+### Certified Ethical Hacker (CEH)
+[![CEH Badge](https://images.credly.com/size/340x340/images/e3896304-9bf0-4f74-acfb-be7fb8d38268/badge.png)](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
 
-**Certified Ethical Hacker (CEH)** – [Verify Credential](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
+### My Credly Badges
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09fb31e9-a54b-45e3-94ca-1bde00b38615" data-share-badge-host="https://www.credly.com"></div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f6cc76ee-e1c4-43c9-8e1e-33b7825f32b4" data-share-badge-host="https://www.credly.com"></div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="166c7ebb-47a0-4b2a-8305-68a908781eb3" data-share-badge-host="https://www.credly.com"></div>
+
+</div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+Check out my portfolio website: [**tristanbdev.netlify.app**](https://tristanbdev.netlify.app/)
 
 ---
 
 ## 📫 Let's Connect!
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tristanbdev.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lessusbrian7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-kioko-0986372b9/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TristanBrian)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tristan-brian)
 
 I'm open to collaboration, mentorship, and meaningful technical discussions.
 
