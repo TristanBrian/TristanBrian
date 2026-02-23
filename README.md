@@ -4,7 +4,7 @@
 
 I design, secure, and automate software systems. My core focus is **cybersecurity-first engineering** combined with **AI-powered automation** to build resilient, efficient, and scalable solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tristanbdev.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://tristanbdev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-TristanDev-000000?style=flat-square&logo=vercel&logoColor=white)](https://tristanbdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan_Brian-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-kioko-0986372b9/)
 [![Email](https://img.shields.io/badge/Email-lessusbrian7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lessusbrian7@gmail.com)
 
@@ -100,18 +100,13 @@ Hands-on practice in penetration testing and network analysis including traffic 
 
 ## 🏆 Certifications
 
-### Certified Ethical Hacker (CEH)
-[![CEH Badge](https://images.credly.com/size/120x120/images/e3896304-9bf0-4f74-acfb-be7fb8d38268/badge.png)](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
-[**Verify CEH Credential**](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url)
-
-### Qualys Security Certifications
-
 | Certification | Verification Link |
 |:-------------|:------------------|
-| Qualys VMDR Foundation | [Verify](https://www.credly.com/badges/09fb31e9-a54b-45e3-94ca-1bde00b38615/public_url) |
-| Qualys VMDR – Patch Management | [Verify](https://www.credly.com/badges/f6cc76ee-e1c4-43c9-8e1e-33b7825f32b4/public_url) |
-| Qualys Policy Compliance | [Verify](https://www.credly.com/badges/166c7ebb-47a0-4b2a-8305-68a908781eb3/public_url) |
-| Qualys Vulnerability Management | [Verify](https://www.credly.com/badges/ae6a9a36-d791-46f0-9806-acf45b9349d4/public_url) |
+| Learn A Thon | [Verify](https://www.credly.com/badges/09fb31e9-a54b-45e3-94ca-1bde00b38615/public_url) |
+| Certified Ethical Hacker | [Verify](https://www.credly.com/badges/e3896304-9bf0-4f74-acfb-be7fb8d38268/public_url) |
+| Cloud Security | [Verify](https://www.credly.com/badges/f6cc76ee-e1c4-43c9-8e1e-33b7825f32b4/public_url) |
+| System Forensics | [Verify](https://www.credly.com/badges/166c7ebb-47a0-4b2a-8305-68a908781eb3/public_url) |
+| Network Security | [Verify](https://www.credly.com/badges/ae6a9a36-d791-46f0-9806-acf45b9349d4/public_url) |
 
 [![All Credly Badges](https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tristan-brian/badges)
 
