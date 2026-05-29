@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tristan Brian
+# 👋 Hi, I'm Brian Kioko
 
 **Cybersecurity Engineer | AI Automation for Software Systems | Linux & Cloud Enthusiast**
 
