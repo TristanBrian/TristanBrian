@@ -10,16 +10,11 @@ I design, secure, and automate software systems. My core focus is **cybersecurit
 
 ---
 
-Here is a version that maintains your professional credentials but injects a polished, witty developer personality. It positions you as an expert who knows exactly what they are doing—and someone who is actually fun to work with.
-
----
-
 ## 🔐 What I Specialize In
 
 ### 🛡️ Cybersecurity 
 * **Threat Analysis & Risk Assessment:** Spotting digital icebergs before your infrastructure hits them.
-* **Penetration Testing:** Emulating adversaries so convincingly your system logs might need therapy.
-* **Defensive Security & Hardening:** Locking down Linux, Cloud, and Networks tightly enough to make script kiddies rethink.
+* **Penetration Testing:** Emulating adversaries
 * **Secure Architecture:** Engineering systems where security isn't an afterthought or a "nice-to-have," but a foundation.
 
 ### 🤖 AI & Automation 
