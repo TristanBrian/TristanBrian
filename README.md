@@ -4,10 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brian+Kioko;Cybersecurity+Engineer;AI+Automation+Specialist;Software+Developer;Linux+%26+Cloud+Enthusiast;Let's+build+the+future+together&glitch=true)](https://git.io/typing-svg)
 
 <!-- Specialisation badges -->
-[![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-Core%20Focus-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)](https://your-link)
-[![AI Automation](https://img.shields.io/badge/🤖_AI_Automation-Specialist-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)](https://your-link)
-[![Software Dev](https://img.shields.io/badge/💻_Software_Dev-Engineer-00ADD8?style=for-the-badge&logo=visualstudio&logoColor=white)](https://your-link)
-
+[![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-Core%20Focus-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)](#-what-i-specialize-in)
+[![AI Automation](https://img.shields.io/badge/🤖_AI_Automation-Specialist-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)](#-what-i-specialize-in)
+[![Software Dev](https://img.shields.io/badge/💻_Software_Dev-Engineer-00ADD8?style=for-the-badge&logo=visualstudio&logoColor=white)](#-what-i-specialize-in)
 </div>
 
 <br>
