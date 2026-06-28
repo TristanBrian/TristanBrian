@@ -1,37 +1,50 @@
+<div align="center">
+
 # 👋 Hi, I'm Brian Kioko
 
-**Cybersecurity Engineer | AI Automation for Software Systems | Linux & Cloud Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;AI+Automation+Specialist;Software+Developer;Linux+%26+Cloud+Enthusiast;I+secure+and+automate+systems)](https://git.io/typing-svg)
 
-I design, secure, and automate software systems. My core focus is **cybersecurity-first engineering** combined with **AI-powered automation** to build resilient, efficient, and scalable solutions.
+</div>
+
+<div align="center">
+
+[![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-Focus-FF0000?style=for-the-badge&logoColor=white)](https://your-link-here)
+[![AI Automation](https://img.shields.io/badge/🤖_AI_Automation-Specialist-7B2FBE?style=for-the-badge&logoColor=white)](https://your-link-here)
+[![Software Dev](https://img.shields.io/badge/💻_Software_Dev-Engineer-00ADD8?style=for-the-badge&logoColor=white)](https://your-link-here)
+
+</div>
+
+---
+
+<div align="center">
+
+I design, secure, and automate software systems.  
+My core focus is **cybersecurity-first engineering** combined with **AI-powered automation** to build resilient, efficient, and scalable solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-TristanDev-000000?style=flat-square&logo=vercel&logoColor=white)](https://tristanbdev.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan_Brian-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-kioko-0986372b9/)
 [![Email](https://img.shields.io/badge/Email-lessusbrian7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lessusbrian7@gmail.com)
 
+</div>
+
 ---
 
 ## 🔐 What I Specialize In
 
-### 🛡️ Cybersecurity 
-* **Threat Analysis & Risk Assessment:** Spotting digital icebergs before your infrastructure hits them.
-* **Penetration Testing:** Emulating adversaries
-* **Secure Architecture:** Engineering systems where security isn't an afterthought or a "nice-to-have," but a foundation.
+### 🛡️ Cybersecurity  
+* Threat Analysis & Risk Assessment  
+* Penetration Testing  
+* Secure Architecture  
 
-### 🤖 AI & Automation 
-(Making code do the heavy lifting)
+### 🤖 AI & Automation  
+* Python-Driven Automation  
+* AI-Assisted SecOps Workflows  
+* Linux Orchestration  
 
-* **Python-Driven Automation:** If I have to do it twice, it’s getting scripted. If it takes longer than five minutes, it’s getting automated.
-* **AI-Assisted SecOps Workflows:** Orchestrating AI models to monitor traffic, hunt anomalies, and alert the team before the slack channel catches fire.
-* **Linux Orchestration:** Taming backend infrastructure and system automation so smoothly it looks like magic (but it’s just pristine Bash and Python).
-
-### 🌐 Networking & Infrastructure 
-(Keeping the digital pipes clean)
-
-* **Network Design & Tuning:** Optimizing protocols, diagnosing bottleneck mysteries, and ensuring traffic actually goes where it's supposed to.
-* **Packet Analysis:** Reading Wireshark PCAPs like a morning newspaper to trace exactly where a handshake went wrong.
-* **Cloud Infrastructure:** Architecting resilient, secure, and cost-efficient environments across AWS and Azure without accidentally leaving an S3 bucket open to the public.
-
----
+### 🌐 Networking & Infrastructure  
+* Network Design & Tuning  
+* Packet Analysis  
+* Cloud Infrastructure (AWS, Azure)  
 
 ---
 
@@ -82,18 +95,18 @@ I design, secure, and automate software systems. My core focus is **cybersecurit
 
 ## 🚀 Selected Work
 
-### 🔧 Linux-Based Smart Automation System
+### 🔧 Linux-Based Smart Automation System  
 Designed and implemented automation workflows on Linux. Integrated IoT components for real-time control and monitoring with focus on security, reliability, and scripting efficiency.
 
-**Technologies:** 
+**Technologies:**  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🔐 Cybersecurity & Network Security Labs
+### 🔐 Cybersecurity & Network Security Labs  
 Hands-on practice in penetration testing and network analysis including traffic inspection, vulnerability scanning, attack simulation, and secure system configuration.
 
-**Tools:** 
+**Tools:**  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
@@ -117,10 +130,10 @@ Hands-on practice in penetration testing and network analysis including traffic 
 
 ## 🧠 Current Focus
 
-- Advancing practical offensive & defensive cybersecurity skills
-- Building AI-driven automation tools for software & infrastructure
-- Developing secure backend systems with Python & JavaScript
-- Contributing to security-focused open-source projects
+- Advancing practical offensive & defensive cybersecurity skills  
+- Building AI-driven automation tools for software & infrastructure  
+- Developing secure backend systems with Python & JavaScript  
+- Contributing to security-focused open-source projects  
 
 ---
 
