@@ -32,9 +32,7 @@
 
 ---
 
-<!-- Optional: snake animation (setup via GitHub Actions) – see instructions below -->
-![snake gif](https://github.com/TristanBrian/TristanBrian/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/TristanBrian/TristanBrian/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🔐 What I Specialize In
