@@ -24,6 +24,16 @@
 
 ---
 
+<!-- 🐍 Contribution snake — subtle, dark‑mode aware, placed here for visual rhythm -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TristanBrian/TristanBrian/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake" width="55%" src="https://raw.githubusercontent.com/TristanBrian/TristanBrian/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 🔐 What I Specialize In
 
 - 🛡️ **Cybersecurity** – Threat analysis, penetration testing, secure architecture
@@ -32,42 +42,39 @@
 
 ---
 
-<details>
-<summary>🛠️ Tech Stack (click to expand)</summary>
+## 🛠️ Tech Stack
 
-**Languages**  
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Security**  
+### Security
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 
-**DevOps & Cloud**  
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-**Databases & Backend**  
+### Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Tools**  
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</details>
 
 ---
 
@@ -124,16 +131,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-TristanBrian-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TristanBrian)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/tristan-brian/badges)
 
-</div>
-
----
-
-<br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TristanBrian/TristanBrian/output/github-contribution-grid-snake-dark.svg">
-    <img alt="contribution snake" width="60%" src="https://raw.githubusercontent.com/TristanBrian/TristanBrian/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
