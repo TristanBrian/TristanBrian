@@ -36,10 +36,14 @@
 
 ## 🔐 What I Specialize In
 
-- 🛡️ **Cybersecurity** – Threat analysis, penetration testing, secure architecture
-- 🤖 **AI & Automation** – Python scripting, AI‑assisted SecOps, Linux orchestration
-- 🌐 **Networking & Cloud** – Packet analysis, AWS/Azure, infrastructure hardening
+- 🛡️ **Cybersecurity** – Threat analysis, pentesting, secure architecture.  
+  *I find the cracks before adversaries do.*
 
+- 🤖 **AI & Automation** – Python‑powered scripting, AI‑driven SecOps, Linux orchestration.  
+  *If I have to do it twice, it’s automated. If it takes >5 min, it’s scripted.*
+
+- 🌐 **Networking & Cloud** – Packet analysis, AWS/Azure, infrastructure hardening.  
+  *Reading Wireshark like a morning newspaper.*
 ---
 
 ## 🛠️ Tech Stack
