@@ -6,7 +6,7 @@
 <!-- Specialisation badges -->
 [![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-Core%20Focus-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)](#-what-i-specialize-in)
 [![AI Automation](https://img.shields.io/badge/🤖_AI_Automation-Specialist-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)](#-what-i-specialize-in)
-[![Software Dev](https://img.shields.io/badge/💻_Software_Dev-Engineer-00ADD8?style=for-the-badge&logo=visualstudio&logoColor=white)](#-what-i-specialize-in)
+[![Software Dev](https://img.shields.io/badge/💻_FinTech_Dev-Engineer-00ADD8?style=for-the-badge&logo=visualstudio&logoColor=white)](#-what-i-specialize-in)
 </div>
 
 <br>
